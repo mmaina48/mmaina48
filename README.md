@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmaina48
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning javascript on flutter
+- 🌱 I’m currently learning javascript and flutter
 - 💞️ I’m looking to collaborate on healthcare projects
 - 📫 How to reach me through mmaina48@gmail.com
 
