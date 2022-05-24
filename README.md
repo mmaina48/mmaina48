@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mmaina48
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning javascript and flutter
+- 👀 A softaware implementation specilist
+- 🌱 I’m interested in software development and data science 
 - 💞️ I’m looking to collaborate on healthcare projects
-- 📫 How to reach me through mmaina48@gmail.com
+- 📫 You can reach me through mmaina48@gmail.com
 
 <!---
 mmaina48/mmaina48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
